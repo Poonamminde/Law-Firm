@@ -1,0 +1,26 @@
+#faqs-container {
+  padding: 5rem 10rem 5rem 10rem;
+  color: var(--css-white);
+  text-align: left;
+}
+.faqs-body {
+  display: flex;
+}
+.faqs-description {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0rem;
+  text-align: left;
+  margin-bottom: 40px;
+}
+.faqs-questions {
+  margin-left: 40px;
+}
+.accordian-item {
+  height: 80px;
+}
+#heading {
+  font-size: 54px;
+}

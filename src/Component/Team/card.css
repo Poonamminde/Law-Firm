@@ -1,0 +1,27 @@
+.team-member {
+  display: flex;
+  color: var(--css-white);
+  width: 334px;
+  height: 114px;
+  border-radius: 14px;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+.team-member:hover {
+  background-color: var(--css-yellow);
+  color: var(--css-black);
+}
+.member-name {
+  margin-top: 0px;
+  font-size: 24px;
+  font-weight: 600;
+  padding-left: 14px;
+}
+.member-cases {
+  font-size: 14px;
+  font-weight: 24px;
+  font-weight: 400;
+  margin-top: -2px;
+  padding-left: 5px;
+}

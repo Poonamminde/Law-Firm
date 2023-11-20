@@ -1,0 +1,23 @@
+.reviewer-header {
+  display: flex;
+  justify-content: space-between;
+}
+#header {
+  text-align: left;
+  width: 374px;
+  height: 154px;
+  font-size: 54px;
+  line-height: 77.23px;
+  font-weight: 600;
+  color: var(--css-white);
+}
+#review-container {
+  padding: 5rem 10rem 5rem 10rem;
+}
+
+#arrow-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  margin-left: 25rem;
+}

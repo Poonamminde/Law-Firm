@@ -1,0 +1,13 @@
+#card-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 5rem 10rem 5rem 10rem;
+}
+#card-highlight {
+  background-color: rgba(106, 106, 106, 1);
+}
+#title {
+  color: var(--css-white);
+  font-size: 54px;
+  font-weight: 600;
+}

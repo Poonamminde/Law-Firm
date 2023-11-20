@@ -1,0 +1,18 @@
+.logo {
+  width: 40px;
+  height: 40px;
+  transform: scale(3);
+}
+.nav-heading {
+  color: var(--css-white);
+  font-size: 18px;
+  font-weight: 500;
+  margin: 12px 8px 0px 8px;
+}
+.nav-button {
+  color: var(--css-white);
+  border: 1px solid var(--css-white);
+  border-radius: 5px;
+  padding: 2px 12px 2px 12px;
+  background-color: var(--css-black);
+}

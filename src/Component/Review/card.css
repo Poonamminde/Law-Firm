@@ -1,0 +1,13 @@
+.review-card-container {
+  text-align: left;
+  width: 339px;
+  height: 368px;
+  border-radius: 14px;
+  border: 1.4px solid rgba(255, 255, 255, 0.1);
+  box-sizing: border-box;
+  padding: 8px;
+  color: var(--css-white);
+}
+.review-card-container:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}

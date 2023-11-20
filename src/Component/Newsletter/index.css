@@ -1,0 +1,33 @@
+#newsletter {
+  padding: 3rem 10rem 3rem 10rem;
+}
+#newsletter-container {
+  background-color: rgba(71, 71, 71, 0.5);
+  height: 256px;
+  box-sizing: border-box;
+  padding: 30px;
+}
+#button {
+  background-color: var(--css-yellow);
+  height: 43px;
+  width: 116px;
+  margin-left: 2px;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+#input-box1 {
+  height: 36px;
+  width: 166px;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+#input-box2 {
+  height: 36px;
+  width: 166px;
+  margin-left: 2px;
+}
+#heading {
+  font-size: 55px;
+  font-weight: 500;
+  line-height: 55px;
+}

@@ -1,0 +1,16 @@
+.team {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+#team-heading {
+  color: var(--css-white);
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77.23px;
+  margin-bottom: 50px;
+}
+.team-container {
+  padding: 5rem 10rem 5rem 10rem;
+}

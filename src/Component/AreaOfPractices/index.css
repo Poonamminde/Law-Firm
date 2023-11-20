@@ -1,0 +1,30 @@
+.image {
+  height: 322px;
+  border-radius: 14px;
+  padding-left: 10px;
+  box-sizing: border-box;
+}
+#heading {
+  color: var(--css-white);
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77.32px;
+}
+.grid-container {
+  display: grid;
+  grid-row: 1fr 1fr 1fr;
+  gap: 10px;
+}
+.grid-image {
+  display: inline;
+  position: relative;
+}
+.image-lable {
+  position: absolute;
+  bottom: 10px;
+  left: 35%;
+  color: var(--css-white);
+  font-size: 28px;
+  font-weight: 500;
+  z-index: 1;
+}

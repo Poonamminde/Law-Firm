@@ -1,0 +1,36 @@
+.card-container {
+  width: 298px;
+  opacity: 0.3px;
+  color: var(--css-white);
+  border: 1px solid rgba(106, 106, 106, 1);
+  text-align: left;
+  padding: 15px 12px 15px 12px;
+  border-radius: 7px;
+}
+.card-container-highlight {
+  width: 298px;
+  opacity: 0.3px;
+  color: var(--css-white);
+  border: 1px solid rgba(106, 106, 106, 1);
+  text-align: left;
+  padding: 15px 12px 15px 12px;
+  border-radius: 7px;
+  background-color: rgba(106, 106, 106, 1);
+}
+.card-title {
+  size: 24px;
+  font-weight: 600;
+}
+.card-content {
+  size: 14px;
+  line-height: 22.75px;
+}
+.readmore-button {
+  width: 121px;
+  height: 43px;
+  border-radius: 23.5px;
+  background-color: var(--css-yellow);
+  text-align: center;
+  padding-top: 12px;
+  box-sizing: border-box;
+}
